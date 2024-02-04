@@ -6,6 +6,8 @@ My Minimalist Helix config.
 Banish those unworthy [soydev](https://storopoli.io/2023-11-10-2023-11-13-soydev/)
 IDEs to the depths of Hell!
 
+![Screenshot](./screenshot.png)
+
 ## How to Use
 
 Just run anywhere with Nix:
